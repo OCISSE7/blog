@@ -9,4 +9,5 @@ get 'main/about'
   root 'articles#indesx'
   # Defines the root path route ("/")
   # root "articles#index"
+  
 end
